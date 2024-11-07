@@ -1,0 +1,86 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Game Development",
+            "slug": "game-development",
+        "description": "Level up your game development skills with advanced techniques and build immersive experience from concept to completion.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"/"
+
+        },
+
+        {
+            "id":2,
+            "title":"Frontend Development for Beginners",
+            "slug": "Frontend Development for Beginners",
+        "description": "Level up your frontend development skills with advanced techniques and build immersive experiences from concept to completion.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": false,
+        "image":"/"
+
+        },
+
+        {
+            "id":3,
+            "title":"Mastering Mobile Mastery",
+            "slug": "Mastering Mobile Mastery",
+        "description": "Elevate your app development skills with advanced techniques tailored for intermediate to advanced developers.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"/"
+
+        },
+
+        {
+            "id":4,
+            "title":"Backend Development",
+            "slug": "Backend Development",
+        "description": "Level up your backend development skills with advanced techniques and build immersive experiences from concept to completion.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": false,
+        "image":"/"
+
+        },
+
+        {
+            "id":5,
+            "title":"Web Wizards",
+            "slug": "Web Wizards",
+        "description": "Enhance your web development skills with advanced techniques for intermediate to advanced developers.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"/"
+
+        },
+
+        {
+            "id":6,
+            "title":"Mastering Next.js",
+            "slug": "Mastering Next.js",
+        "description": "Level up your Next.js expertise with cutting-edge techniques designed for intermediate to advanced developers.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"jpeg"
+        
+         },
+         {
+            "id":7,
+            "title":"AI Generative Mastery",
+            "slug": "AI Generative Mastery",
+        "description": "Enhance your AI development skills with advanced generative techniques for intermediate to advanced learners.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"jpeg"
+        
+         }
+    ]
+}
