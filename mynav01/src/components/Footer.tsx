@@ -12,7 +12,7 @@ const Footer = () => {
         <h3 className='text-lg font-bold text-white mb-4'> links</h3>
         <ul>
           <li><a href="/" className='hover:text-slate-300'>home</a></li>
-          <li><a href="/courses" className='hover:text-slate-300'></a></li>
+          <li><a href="/courses" className='hover:text-slate-300'>courses</a></li>
           <li><a href="/about" className='hover:text-slate-300' >about</a></li>
           <li><a href="/contact" className='hover:text-slate-300' >contact</a></li>
         </ul>
