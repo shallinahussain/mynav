@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"/"
+        "image":"a"
 
         },
 
@@ -19,8 +19,8 @@
         "description": "Level up your frontend development skills with advanced techniques and build immersive experiences from concept to completion.",
         "price": 99.99,
         "instructor": "mali",
-        "isFeatured": false,
-        "image":"/"
+        "isFeatured": true,
+        "image":"b"
 
         },
 
@@ -32,7 +32,7 @@
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"/"
+        "image":"c"
 
         },
 
@@ -43,8 +43,8 @@
         "description": "Level up your backend development skills with advanced techniques and build immersive experiences from concept to completion.",
         "price": 99.99,
         "instructor": "mali",
-        "isFeatured": false,
-        "image":"/"
+        "isFeatured": true,
+        "image":"d"
 
         },
 
@@ -56,7 +56,7 @@
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"/"
+        "image":"e"
 
         },
 
@@ -68,7 +68,7 @@
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"jpeg"
+        "image":"f"
         
          },
          {
@@ -79,7 +79,7 @@
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"jpeg"
+        "image":""
         
          }
     ]

@@ -32,8 +32,8 @@ return (
       <div className="mt-10">
           <div className="grid grid-cols-1 sm:grid-cols-2
           lg:grid-cols-3 gap-8 justify-center">
-              {featuredCourses.map((course)=> (
-                  <div  key={course.id}> 
+              {featuredCourses.map((course:Course)=> (
+                  <div key={course.id}>
                    <BackgroundGradient 
                     className="flex flex-col rounded-
                     [22px] bg-gray-900 dark:bg-zinc-900
@@ -43,10 +43,10 @@ return (
                       flex-grow">
                         
                         <p className="text-lg sm:text-xl text-black mt-4 mb-2
-                        dark:text-neutral-200"> key={course.title}</p>
-                        <p className="text-5m text-neutral-600
+                        dark:text-neutral-200">{course.title}</p>
+                        <p className="text-sm text-neutral-600
                         dark:text-neutral-400
-                        flex-grow">key={course.description}</p>
+                        flex-grow">{course.description}</p>
                         <Link href={'/courses/${course.slug}'} className="text-blue-300">
                         Learn More
                         </Link>
@@ -61,7 +61,6 @@ return (
         className="px-4 py-2 rounded-full border
         border-blue-900 text-neutral-700 bg-white
         hover:bg-gray-100 transition duration-200"
-        
         >
         View All Courses
          </Link>
@@ -71,5 +70,4 @@ return (
   )
 }
 
-export default FeaturedCourses
-
+export default FeaturedCourses
