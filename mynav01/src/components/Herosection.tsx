@@ -11,7 +11,7 @@ import { Button } from "./ui/moving-border";
         >
              <Spotlight
         className="-top-40 left-0 md:left-80 md:-top-20"
-        fill=" blue"
+        fill=" white"
       />
             <h1
             className="mt-20 md:mt-0 text-4xl md:text-7xl
