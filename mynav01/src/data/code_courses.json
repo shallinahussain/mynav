@@ -17,8 +17,8 @@
             "title":"Frontend Development for Beginners",
             "slug": "Frontend Development for Beginners",
         "description": "Level up your frontend development skills with advanced techniques and build immersive experiences from concept to completion.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 95.99,
+        "instructor": "ali",
         "isFeatured": true,
         "image":"b"
 
@@ -29,8 +29,8 @@
             "title":"Mastering Mobile Mastery",
             "slug": "Mastering Mobile Mastery",
         "description": "Elevate your app development skills with advanced techniques tailored for intermediate to advanced developers.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 94.99,
+        "instructor": "zornex",
         "isFeatured": true,
         "image":"c"
 
@@ -41,8 +41,8 @@
             "title":"Backend Development",
             "slug": "Backend Development",
         "description": "Level up your backend development skills with advanced techniques and build immersive experiences from concept to completion.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 98.99,
+        "instructor": "zirtash",
         "isFeatured": true,
         "image":"d"
 
@@ -53,8 +53,8 @@
             "title":"Web Wizards",
             "slug": "Web Wizards",
         "description": "Enhance your web development skills with advanced techniques for intermediate to advanced developers.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 119.99,
+        "instructor": "gaitham",
         "isFeatured": true,
         "image":"e"
 
@@ -65,8 +65,8 @@
             "title":"Mastering Next.js",
             "slug": "Mastering Next.js",
         "description": "Level up your Next.js expertise with cutting-edge techniques designed for intermediate to advanced developers.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 991.99,
+        "instructor": "smali",
         "isFeatured": true,
         "image":"f"
         
@@ -76,8 +76,8 @@
             "title":"AI Generative Mastery",
             "slug": "AI Generative Mastery",
         "description": "Enhance your AI development skills with advanced generative techniques for intermediate to advanced learners.",
-        "price": 99.99,
-        "instructor": "mali",
+        "price": 994.99,
+        "instructor": "mralin",
         "isFeatured": true,
         "image":""
         
