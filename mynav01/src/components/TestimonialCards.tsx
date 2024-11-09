@@ -9,7 +9,7 @@ const testimonials = [
     title: 'Web Developer',
   },
   {
-    quote: 'As an app developer, I’ve found this platform to be a game-changer. The detailed guides and practical exercises have made creating robust and efficient applications much more straightforward.',
+    quote: 'As an app Developer, I’ve found this platform to be a game-changer. The detailed guides and practical exercises have made creating robust and efficient applications much more straightforward.',
     name: 'Michael Faraday',
     title: 'Mobile App Developer',
   },
